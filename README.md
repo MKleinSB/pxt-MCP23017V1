@@ -22,6 +22,7 @@ Beschreibt das Register mit dem gewünschten Bitmuster. Zuerst sollte festgelegt
 ![](https://github.com/MKleinSB/pxt-MCP23017/blob/master/5.png) 
 
 Hm, irgendwie doof zu erklären. Schaut am besten in die Projekte auf Hackster:
+
 https://www.hackster.io/MKlein/16-digitale-ein-ausgange-am-calliope-mini-custom-blocks-cd1e9e
 
 und
