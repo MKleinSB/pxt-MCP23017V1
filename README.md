@@ -4,7 +4,10 @@ Custom Blocks für den MCP23017 16-fach Digital-IO Baustein.
 
 ![](https://github.com/MKleinSB/pxt-MCP23017/blob/master/6.png) 
 
-![](https://youtube.com/watch?v=u2ph9TZY8Zw) 
+![](https://www.youtube.com/watch?v=u2ph9TZY8Zw) 
+https://www.youtube.com/watch?v=u2ph9TZY8Zw
+
+![](https://github.com/MKleinSB/pxt-MCP23017/blob/master/6.png) 
 
 ## Reference
 ![](https://github.com/MKleinSB/pxt-MCP23017/blob/master/1.png) 
