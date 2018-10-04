@@ -14,6 +14,9 @@ Custom Blocks für den MCP23017 16-fach Digital-IO Baustein.
 
 ## License
 
+(C) (CC) Creative Commons https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+Robert Fromm http://robert-fromm.info/?post=elec_i2c_calliope & Michael Klein
 
 
 ## Supported targets
