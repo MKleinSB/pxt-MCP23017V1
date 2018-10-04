@@ -7,7 +7,10 @@ Custom Blocks für den MCP23017 16-fach Digital-IO Baustein.
 Auf Youtube:  https://www.youtube.com/watch?v=u2ph9TZY8Zw
 
 ## Reference
+Vorneweg: Der MCP23017 besteht quasi aus zwei Teilen. Teil A und Teil B mit jeweils 8 Ein- oder Ausgängen.
+
 ![](https://github.com/MKleinSB/pxt-MCP23017/blob/master/1.png) 
+Beschreibt das Register mit dem gewünschten Bitmuster. Zuerst sollte festgelegt werden ob wir jeweils 8 Ein- oder Ausgänge wollen oder bunt gemischt. Das geschieht mit EinOderAusgabe_A bzw.B.
 
 ![](https://github.com/MKleinSB/pxt-MCP23017/blob/master/2.png) 
 
