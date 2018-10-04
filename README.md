@@ -10,7 +10,8 @@ Auf Youtube:  https://www.youtube.com/watch?v=u2ph9TZY8Zw
 Vorneweg: Der MCP23017 besteht quasi aus zwei Teilen. Teil A und Teil B mit jeweils 8 Ein- oder Ausgängen.
 
 ![](https://github.com/MKleinSB/pxt-MCP23017/blob/master/1.png) 
-Beschreibt das Register mit dem gewünschten Bitmuster. Zuerst sollte festgelegt werden ob wir jeweils 8 Ein- oder Ausgänge wollen oder bunt gemischt. Das geschieht mit EinOderAusgabe_A bzw.B.
+
+Beschreibt das Register mit dem gewünschten Bitmuster. Zuerst sollte festgelegt werden, ob wir jeweils 8 Ein- oder Ausgänge wollen oder bunt gemischt. Das geschieht mit EinOderAusgabe_A bzw.B.
 
 ![](https://github.com/MKleinSB/pxt-MCP23017/blob/master/2.png) 
 
@@ -19,6 +20,11 @@ Beschreibt das Register mit dem gewünschten Bitmuster. Zuerst sollte festgelegt
 ![](https://github.com/MKleinSB/pxt-MCP23017/blob/master/4.png) 
 
 ![](https://github.com/MKleinSB/pxt-MCP23017/blob/master/5.png) 
+
+Hm, irgendwie doof zu erklären. Schaut am besten in die Projekte auf Hackster:
+https://www.hackster.io/MKlein/16-digitale-ein-ausgange-am-calliope-mini-custom-blocks-cd1e9e
+und
+https://www.hackster.io/MKlein/calliope-mini-i2c-io-expander-ffda4d
 
 ## License
 
