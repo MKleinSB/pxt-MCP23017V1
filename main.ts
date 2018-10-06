@@ -99,9 +99,9 @@ namespace MCP23017 {
      * Bitwert für  alle Ein- bzw. Ausgänge zum auswählen
      */
     //% blockId=alle block="%alle"
-    //% gesture.fieldEditor="gridpicker"
-    //% gesture.fieldOptions.width=220
-    //% gesture.fieldOptions.columns=3
+    //% BITS.fieldEditor="gridpicker"
+    //% BITS.fieldOptions.width=220
+    //% BITS.fieldOptions.columns=3
     export function bitwert(alle: BITS): number {
         return alle
     }
