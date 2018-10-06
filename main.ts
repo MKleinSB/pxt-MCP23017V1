@@ -4,7 +4,7 @@
 // Basierend auf der tollen Grundlagenseite 
 // http://robert-fromm.info/?post=elec_i2c_calliope
 // (cc) Creative Commons Robert Fromm 2017
-// Als Makecode / pxt-Paket 04.1.2018 M.Klein v3.06
+// Als Makecode / pxt-Paket 04.10.2018 M.Klein v3.07
 // https://www.hackster.io/MKlein/calliope-mini-i2c-io-expander-ffda4d
 
 enum REG_MCP {
@@ -99,6 +99,9 @@ namespace MCP23017 {
      * Bitwert für  alle Ein- bzw. Ausgänge zum auswählen
      */
     //% blockId=alle block="%alle"
+    //% gesture.fieldEditor="gridpicker"
+    //% gesture.fieldOptions.width=220
+    //% gesture.fieldOptions.columns=3
     export function bitwert(alle: BITS): number {
         return alle
     }
